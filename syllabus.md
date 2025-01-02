@@ -49,8 +49,6 @@ We will be using Discord for the following:
 
 * Online office hours (TAs)
 * Online team meetings and discussions
-* General project / course discussion
-* Off-topic channels for general discussion
 
 We will not be using Discord for:
 
@@ -142,7 +140,7 @@ You should meet the following requirements to take this class:
 4. You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to the staff as soon as possible!
 
 ## Assessment and Grading
-We will utilize a positive-reinforcement grading policy in this course. As the purpose of this class is for you to gain experience as a software developer working in a team on a larger-scale project, your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete Guided Practice (GP) activities, you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
+We will utilize a positive-reinforcement grading policy in this course. As the purpose of this class is for you to gain experience as a software developer working in a team on a larger-scale project, your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete Guided Practice (GP) activities, you will earn XP.  
 
 | Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
 |:--------------|:-----|:---|:-----|:-----|
@@ -200,14 +198,16 @@ You may request a reassessment of any graded work in this course, subject to the
 - Reassessment requests that are based on feeling or hearsay rather than information indicated above will not be considered and no further reassessment may be made. Examples include: "I feel you graded this too harshly", "My friend did the same thing and got a better score", etc.
 - Students who submit an item for reassessment are advised that the entire work will may be reconsidered and that the result of the reassessment may be that the grade will increase, stay the same, or decrease accordingly.
 - Graded work may only be reassessed once -- you may not request reassessment a second time for the same item/problem and any changes to the grade made during reassessment will be final.
+- Reassessment requests that are not written in a professional, respectful way will be immediately discarded and may result in a professionalism penalty for the student.  (In other words, venting frustration at the grader for "not getting it right" is inappropriate and will not be tolerated.)
+- Reassessment periods may be shortened at the end of the semester if needed to complete grading before submitting final grades to the University Registrar.
 
 
-### Final Exam and Project Demos
+### Final Exam and Project Grading
 {: .no_toc }
 
 __Final Exam:__ The final exam in this course is an opportunity to show mastery of material that was previously missed on earlier quizzes.  If a student has earned the maximum number of points on the three quizzes, they have a set of scores they are comfortable with, or if they already have an A in the course, the student does not (and should not) take the final exam.  If a student wishes to take the final exam, they can earn back up to 100 XP total toward the available 300 XP from quizzes.  We will create a custom final exam for each student based upon only the questions the student missed on the previous three quizzes.  While it is possible to lose points on the final exam, this is a relatively rare occurance, usually stemming from wild guessing on questions.  Students can come to either exam session, regardless of enrolled section.
 
-__Project Demos:__ If time allows at the end of the semester, student teams will demo their final project to a professor near the end of the semester.  All students are expected to attend the demo for their team.  Demos should only last around 20 minutes.  Students do not need to prepare anything for the demo (e.g. no slides, no presentation, etc.).  The team will walk the professor through the app and will answer various questions about its design and implementation.  More information will be shared in the final weeks of the semester once the schedule is finalized.
+__Project Grading:__ Team Projects will be graded by the faculty at the end of the semester. Every effort will be made to return the project grade at least 24 hours in advance of the first exam period so students know whether they should take the final exam or not. If there are any issues with grading, teams will have an opportunity to respond to faculty inquiries so that minor issues in the project do not hinder proper evaluation of the system.
 
 ## Class Management
 
@@ -218,14 +218,13 @@ You are expected to work as a member of your group in this course and cooperate 
 ### Attendance
 {: .no_toc }
 * No attendance will be taken during the lectures sessions on Tuesdays and Thursdays.  
-* We do not plan to record lectures this semester to better encourage attendance and participation.  Recordings from previous semesters will be available for students who have to miss class.
+* We do not plan to record lectures this semester to better encourage attendance and participation.  Recordings from previous semesters can be made available for students with special circumstances (e.g., SDAC accommodations, etc.).
 * Students should only attend the lecture section they have registered for due to room size restrictions.  
-* Guided Practice activities will take place during announced class sessions.  Some of these will be in-class only, while some can be done outside of class time.  Also note that some Guided Practice activities _must_ be done in teams and cannot be done solo or even in pairs.  Pay attention to the instructions.
+* Guided Practice activities will take place during announced class sessions.  Some of these will be in-class only, while some can be done outside of class time.  Due to the nature of most in-class GPs, these cannot be made up if they are missed. However, please note that these are relatively low-stakes and missing an additional GP is not going to have an outsized effect on your final grade. Also note that some GPs must be done in small groups, some with your project team, and some on your own.  Pay attention to the instructions.
 
 ### Late Policy
 {: .no_toc }
-* Late work grace periods are built into Gradescope where appropriate.  Further exceptions require professor approval.  
-* In general, late work will not be accepted - either for individual or group work.
+* TBD
 
 ### This Syllabus
 {: .no_toc }
