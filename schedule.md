@@ -2,16 +2,15 @@
 layout: default
 title: Schedule
 nav_order: 3
-nav_exclude: true
 ---
 
-# Course Schedule
+# Course Schedule - UNDER CONSTRUCTION
 {: .no_toc }
 
 1. TOC
 {:toc} 
 
-## Lecture Schedule
+## Lecture Schedule 
 
 <table class="schedtab"><thead>
 <tr>
