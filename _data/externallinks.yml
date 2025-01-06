@@ -10,25 +10,23 @@ devops_report_template: "https://docs.google.com/document/d/1eupWAMVItEcAQyex45N
 
 sa_report_template: "https://docs.google.com/document/d/1FqpRSalxwvioVi9oJw-DtsrEHVW_gTo_N5sqX-wYoXU/edit?usp=sharing"
 
-project_management_spreadsheet: "#"
-
 sprint_report: "https://docs.google.com/document/d/1VunaACHIt9-xRZ_Lqo-0s0_Po5fHXaeNrQn7XC1jjh8/edit?usp=sharing"
 
-sprint_team_evaluations: "#"
+sprint_team_evaluations: "https://docs.google.com/forms/d/e/1FAIpQLSeJXELmlHWoj77zhRyIGWsSnuznACDe-oOuNLk57WpiJrC7Qg/viewform?usp=dialog"
 
 final_submission_pledge: "#"
 
-final_team_evaluations: "#"
+final_team_evaluations: "https://docs.google.com/forms/d/e/1FAIpQLSel6l86e_xMFlRPbDL3tnIUGPZX2tG3mDld02EjOwN8T2kzbA/viewform?usp=dialog"
 
-team_preference_form: "#"
+team_preference_form: "https://docs.google.com/forms/d/e/1FAIpQLSek3oBMMpCxp9zMcu4X5V51myn14LV2eqbvNkw2TGS7OmULcg/viewform?usp=dialog"
 
-team_declaration_form: "#"
+team_declaration_form: "https://docs.google.com/forms/d/e/1FAIpQLSc-o5VQTQkaF7lCI6m4yKJlo5JOqSbiTz--A3gur4aM1cDmlg/viewform?usp=dialog"
 
-github_classroom_project: "#"
+github_classroom_project: "https://classroom.github.com/a/hLqvXyMi"
 
-github_classroom_django: "#"
+github_classroom_django: "https://classroom.github.com/a/OJKslPBJ"
 
-github_classroom_gp-a: "#"
+github_classroom_gp-a: "https://classroom.github.com/a/nxl8ZrPZ"
 
 github_organization: "https://github.com/uva-cs3240-s25"
 
