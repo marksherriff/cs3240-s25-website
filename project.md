@@ -16,9 +16,12 @@ nav_exclude: true
 
 ## Team Project Overview
 
-This semester, we are going to be fully focused on projects... literally!  You're going to be building a project management application!  We are going to give you some specific technical requirements that you will have to meet to ensure that all teams are building something that is roughly the same "difficulty."  However, you will have the ability to customize the theming of the app.  The projects could be working with other students on homework assignments, student group event planning, or perhaps related to a hobby you are intersted in.  You will also extend the functionality to better meet the needs of your particular set of users.
+This semester, we our projects are all about sharing and lending!  We all have tons of stuff in our rooms, our homes, our offices (seriously, look at Sherriff's office sometime... it's full of video games...) that we might not use all the time, but others would love to borrow.  Your teams are going to be building _cataloging and lending applications_ that can be used for any type of thing you want.  Maybe you'll focus on books and have your app scan barcodes to look up information from an online database.  Or perhaps you'll do the same thing with your video game collection.  Another option is tools - hammers, wrenches, screwdrivers, etc. - that you want to keep track of.  There are numerous possibilities here!  The main thing to consider is it has to be something that you 1) have a "collection" of in some capacity and 2) can lend out to other people.  It will be up to your team to figure out what your app will do for your particular set of users.
 
-From here on, we will refer to your team projects as "Project Management Apps" (PMAs) and "projects" will refer to the "primary object" that you will be building around in your apps.
+From here on, we will use the following terminology and abbreviations:
+
+- The team projects for CS 3240 will be collectively called "Cataloging and Lending Apps" (CLAs) 
+- Any individual thing that will be cataloged and made available for "projects" will refer to the "primary object" that you will be building around in your apps.
 
 ## Base Requirements
 
