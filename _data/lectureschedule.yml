@@ -115,11 +115,10 @@
   type: holiday
   date: 03/13
 
-- topic: Wireframes
+- topic: Software Usability
   type: lecture
   date: 03/18
   coursepack: "https://www.cs3240.org/modules/design/usability/"
-  due: "GP-F: Wireframes (In-Class^)"
 
 - topic: "Quiz 2: Software Architecture and Design"
   type: quiz
