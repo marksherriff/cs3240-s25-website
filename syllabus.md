@@ -144,9 +144,10 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 
 | Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
 |:--------------|:-----|:---|:-----|:-----|
-|Guided Practice |	Small Groups or Individual |	10 |	5 |	50 |
+|Guided Practice |	Small Groups or Individual |	8 |	5 |	40 |
 |Team Role Document |	Individual |	1 |	100 |	100 |
 |Team & Staff Evaluation |	Individual |	1 |	100 |	100 |
+|Completing Team Evals |	Individual |	5 |	2 |	10 |
 |Quizzes |	Individual |	3 |	100 |	300 |
 |Project Sprints |	Team |	6 |	25 |	150 |
 |Project (Beta Version) | Team | 1 | 100 | 100 |

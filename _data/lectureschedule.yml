@@ -19,7 +19,7 @@
   type: lecture
   date: 01/21
   coursepack: https://www.cs3240.org/modules/process/software-construction/
-  due: "GP-A: GitHub (Gradescope)"
+  due: "GP-A: GitHub Tutorial (Gradescope)"
   due2: Team / Project Preference Form
 
 - topic: Software Process
@@ -124,62 +124,61 @@
   type: quiz
   date: 03/20
 
-- topic: Verification and Validation 
+- topic: Use of AI in Software Engineering
   type: lecture
   date: 03/25
+
+- topic: Use of AI in Software Engineering
+  type: lecture
+  date: 03/27
+
+- topic: Verification and Validation 
+  type: lecture
+  date: 04/01
   coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
 
 - topic: Verification and Validation 
   type: lecture
-  date: 03/27
+  date: 04/03
   coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
-  due: "GP-G: Acceptance Testing (In-Class^)"
+  due: "GP-F: Acceptance Testing (In-Class^)"
   due_link: # 
 
 - topic: DEI in Software Engineering
   type: lecture
-  date: 04/01
+  date: 04/08
   coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
 
 - topic: SE Code of Ethics
   type: lecture
-  date: 04/03
+  date: 04/10
   coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/se-code-of-ethics/"
-  due: "GP-H: Ethics (In-Class^)"
+  due: "GP-G: Ethics (In-Class^)"
   due_link: #
 
 - topic: Engineering Secure Software
   type: lecture
-  date: 04/08
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
-
-- topic: Software Maintenance
-  type: lecture
-  date: 04/10
+  date: 04/15
   coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
 
 - topic: Software Licensing
   type: lecture
-  date: 04/15
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/licensing/"
-  due: "GP-I: Secure Software (Gradescope)"
-
-- topic: TBD
-  type: lecture
   date: 04/17
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/licensing/"
 
-- topic: TBD
+- topic: Software Maintenance
   type: lecture
   date: 04/22
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
+  due: "GP-H: Security and Licenses (Gradescope)"
 
 - topic: "Quiz 3: V&V and Professional Issues"
   type: quiz
   date: 04/24
 
-- topic: Course Review
+- topic: Professor AMA and Exam Review
   type: lecture
   date: 04/29
-  due: "GP-J: Licenses (Gradescope)"
   due_link_to_release: "#"
 
 - topic: Exam Session 1 @ 2:00 PM

@@ -1,25 +1,25 @@
 - topic: No Team Meetings (No teams yet)
   type: holiday
-  date: 08/25-08/31
+  date: 01/12-01/18
   deliverable: None
 
 - topic: No Team Meetings (No teams yet)
   type: holiday
-  date: 09/01-09/07
+  date: 01/19-01/25
   deliverable: None
 
 - topic: "Sprint 1: Team Organization"
   type: lab
-  date: 09/08-09/14
+  date: 01/26-02/01
   deliverable: None
-  duedate: 09/15
+  duedate: 02/02
   link: "/project.html#sprint-1-team-organization"
 
 - topic: "Sprint 2: Requirements"
   type: lab
-  date: 09/15-09/21
+  date: 02/02-02/08
   deliverable: "S1 Ends: Team Declaration Form"
-  deliverabledue: 9/10
+  deliverabledue: 02/02
   duedate: 09/22
   link: "/project.html#sprint-2-requirements-elicitation"
 
