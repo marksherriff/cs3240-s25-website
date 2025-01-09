@@ -4,7 +4,7 @@ title: Schedule
 nav_order: 3
 ---
 
-# Course Schedule - UNDER CONSTRUCTION
+# Course Schedule
 {: .no_toc }
 
 1. TOC
