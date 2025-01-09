@@ -15,13 +15,14 @@ nav_order: 4
 
 ## Team Project Overview
 
-This semester, we our projects are all about sharing and lending!  We all have tons of stuff in our rooms, our homes, our offices (seriously, look at Sherriff's office sometime... it's full of video games...) that we might not use all the time, but others would love to borrow.  Your teams are going to be building _cataloging and lending applications_ that can be used for any type of thing you want.  Maybe you'll focus on books and have your app scan barcodes to look up information from an online database.  Or perhaps you'll do the same thing with your video game collection.  Another option is tools - hammers, wrenches, screwdrivers, etc. - that you want to keep track of.  There are numerous possibilities here!  The main thing to consider is it has to be something that you 1) have a "collection" of in some capacity and 2) can lend out to other people.  It will be up to your team to figure out what your app will do for your particular set of users.
+This semester, our class projects are all about sharing and lending!  We all have tons of stuff in our rooms, our homes, our offices (seriously, look at Sherriff's office sometime... it's full of video games...) that we might not use all the time, but others would love to borrow.  Your teams are going to be building _cataloging and lending applications_ that can be used for any type of thing you want.  Maybe you'll focus on books and have your app scan barcodes to look up information from an online database.  Or perhaps you'll do the same thing with your video game collection.  Another option is tools - hammers, wrenches, screwdrivers, etc. - that you want to keep track of.  There are numerous possibilities here!  The main thing to consider is it has to be something that you 1) have a "collection" of in some capacity and 2) can lend out to other people.  It will be up to your team to figure out what your app will do for your particular set of users.
 
 From here on, we will use the following terminology and abbreviations:
 
 - The team projects for CS 3240 will be collectively called "Cataloging and Lending Apps" (CLAs) 
 - Any individual thing that will be cataloged and made available for people to borrow will be called "items."  Example: if you are doing a book lending app, each copy of a book would be considered an item.
 - A grouping of items will be called a "collection."  Example: you decide to make a collection of all your video games that have Mario as a main character.
+- A "library" will be the full set of all items in your CLA.  So, a library will have [0 to many] items and [0 to many] collections.
 
 ## Base Requirements
 
@@ -71,6 +72,15 @@ All CLAs __must__ meet the base requirements listed below.
 	- If Private, a list of users that have the ability to see this collection and borrow items (note that librarians can always see all collections)
 1. Items can belong to more than one public collection at a time.
 1. If an item is in a private collection, it is only allowed to be in that one private collection and no other collections, either public or private.
+
+### Libraries
+{: .no_toc }
+
+1. Libraries must be searchable by any user, based upon their access requirements (see user requirements below).
+1. Users can search for items by title and any appropriate keyword or tagging that your app implements.
+1. Users can search for any collection by title and any appropriate keyword or tagging that your app implements.
+1. Users can search within any collection for items title and any appropriate keyword or tagging that your app implements.
+
 
 ### Anonymous Users
 {: .no_toc }
