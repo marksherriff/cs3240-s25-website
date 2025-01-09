@@ -225,7 +225,15 @@ You are expected to work as a member of your group in this course and cooperate 
 
 ### Late Policy
 {: .no_toc }
-* TBD
+
+* _Guided Practice:_ No late work is accepted for GPs due to either being in-class, teamwork, or will be discussed in class the next day.  Your one lowest Guided Practice (GP) is converted to 5 XP (full points) at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason.
+* _Team Role Documents:_ An extension of up to five calendar days may be requested for any reason by filling out the appropriate Google form with the assignment. No extensions will be given beyond what is requested through this form. SDAC students should use this form if they have modified deadlines to request their extension.
+* _Team & Staff Evaluation:_ As there is nothing to submit for this, there is no late policy.
+* _Completing Team Evals:_ No late submissions will be accepted as we use these immediately for determining if a team is working together effectively.  Note that these are not worth many points and will not have an outsized effect on a student's grade.
+* _Quizzes:_ Students can make up a quiz with instructor permission due to approved circumstances only if the make up can be done before the quiz will be returned to the class.  Otherwise, if approved by the instructor, the entire quiz may be taken as a part of the final exam and it will not count against the normal 100 XP final exam max point limit.
+* _Project Sprints:_ No late submissions will be accepted as these are team project checkpoints and the project must stay on track.
+* _Project Beta and Final Version:_ No late submissions will be accepted.
+* _Django Practice:_ An extension of up to five calendar days may be requested for any reason by filling out the appropriate Google form with the assignment. No extensions will be given beyond what is requested through this form. SDAC students should use this form if they have modified deadlines to request their extension.
 
 ### This Syllabus
 {: .no_toc }
@@ -303,7 +311,7 @@ If there is the possibility of inclement weather that could affect class, it is 
 {: .no_toc }
 It is our goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please make an appointment to with your instructor outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the SDAC website: [sdac.studenthealth.virginia.edu](http://sdac.studenthealth.virginia.edu). 
 
-If you have already been approved for accommodations through SDAC, please send your instructor your accommodation letter as soon as possible. We happily and discretely provide the recommended accommodations for those students identified by the SDAC. For quizzes and other individual assessments, please remind us one week before a quiz so we can make accommodations.  For team related assessments, we cannot grant significant accommodations to deadlines for an entire team due to accommodations of individuals on the team. However, we are more than happy to discuss with you the best way to integrate with your team with your accommodations in consideration. Please make an appointment with your instructor outside of office hours to have this discussion.  If you have modified attendance or modified deadlines, our general policy for in-class Guided Practice activities is to "do the best you can" with attendance and we can evaluate at the end of the semester if there is a need for adjustment.  We will not grant take-home versions of the in-class Guided Practices as they are meant for group discussion.  Guided Practices that are normally take-home assessments will be granted normal extensions.
+If you have already been approved for accommodations through SDAC, please send your instructor your accommodation letter as soon as possible. We happily and discretely provide the recommended accommodations for those students identified by the SDAC. For quizzes, please remind us one week before a quiz so we can make accommodations.  For individual assignments as indicated in the late policy, please fill out the appropriate extension form provided with the assignment.  For team related assessments, we cannot grant significant accommodations to deadlines for an entire team due to accommodations of individuals on the team. However, we are more than happy to discuss with you the best way to integrate with your team with your accommodations in consideration. Please make an appointment with your instructor outside of office hours to have this discussion.  If you have modified attendance or modified deadlines, our general policy for in-class Guided Practice activities is to "do the best you can" with attendance and we can evaluate at the end of the semester if there is a need for adjustment.  We will not grant take-home versions of the in-class Guided Practices as they are meant for group discussion.  Guided Practices that are normally take-home assessments will be granted normal extensions.
 
 If you have other special circumstances (athletics, other university-related activities, etc.), please contact the instructor as soon as you know these may affect you in class.
 
@@ -347,7 +355,6 @@ You may schedule time with the CAPS counselors through [Student Health](https://
 ### Community and Identity
 {: .no_toc }
 The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
-
 
 ### Harassment, Discrimination, and Interpersonal Violence
 {: .no_toc }
