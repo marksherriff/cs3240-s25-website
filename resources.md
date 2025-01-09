@@ -2,7 +2,6 @@
 layout: default
 title: Project Resources
 nav_order: 5
-nav_exclude: true
 ---
 
 # Project Resources

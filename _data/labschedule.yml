@@ -14,7 +14,7 @@
   duedate: 02/02
   link: "/project.html#sprint-1-team-organization"
 
-- topic: "Sprint 2: Requirements"
+- topic: "Sprint 2: Requirements Elicitation"
   type: lab
   date: 02/02-02/08
   duedate: 02/09
@@ -30,11 +30,11 @@
   type: lab
   date: 02/16-02/22
 
-- topic: "Sprint 4: AWS S3"
+- topic: "Sprint 4: Amazon S3 Storage"
   type: lab
   date: 02/23-03/01
   duedate: 03/16
-  link: "/project.html#sprint-4-project-milestone-1"
+  link: "/project.html#sprint-4-amazon-s3-storage"
 
 - topic: Sprint 4 Continues
   type: lab
@@ -50,7 +50,7 @@
   type: lab
   date: 03/16-03/22
   duedate: 03/30
-  link: "/project.html#sprint-5-project-milestone-2"
+  link: "/project.html#sprint-5-requirements-change"
 
 - topic: Sprint 5 Continues
   type: lab
@@ -77,7 +77,7 @@
   type: lab
   date: 04/20-04/26
   duedate: 12/05
-  link: "/project.html#final-version"
+  link: "/project.html#final-sprint"
 
 - topic: "Final Sprint Continues"
   type: lab
