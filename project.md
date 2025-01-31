@@ -207,8 +207,9 @@ __Goal:__ Have your initial meeting as a team and determine who will be doing wh
 
 __Requirements and XP Allocation:__      
 
-- 15 XP: Complete the Team Declaration form above.
+- 10 XP: Complete the Team Declaration form above.
 - 10 XP: GitHub repo initialized and all team member accounts have joined the project.
+- 5 XP: All team members are in Discord.
 
 __Team Evals:__ No Team Evals this week.
 
