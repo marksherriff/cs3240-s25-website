@@ -54,8 +54,6 @@
   type: lecture
   date: 02/06
   coursepack: https://www.cs3240.org/modules/requirements/requirements-specification/
-  topic2: User Personas
-  coursepack2: https://www.cs3240.org/modules/design/usability/
 
 - topic: Guided Practice C & Quiz Review
   type: lecture
