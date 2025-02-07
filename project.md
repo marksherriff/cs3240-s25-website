@@ -207,8 +207,9 @@ __Goal:__ Have your initial meeting as a team and determine who will be doing wh
 
 __Requirements and XP Allocation:__      
 
-- 15 XP: Complete the Team Declaration form above.
+- 10 XP: Complete the Team Declaration form above.
 - 10 XP: GitHub repo initialized and all team member accounts have joined the project.
+- 5 XP: All team members are in Discord.
 
 __Team Evals:__ No Team Evals this week.
 
@@ -223,7 +224,6 @@ __Goal:__ Spend most of this sprint working as a team to elicit the full require
 
 __Requirements:__ The team must have a "reasonable" set of user stories / issues in GitHub Issues to begin with (around 10 is a lower-bound target).  We do not expect you to have your final set of features at this point.  However, you need to be able to show the TA that you have gathered requirements data and that you have converted at least some of this information into GitHub Issues.  The Requirements Manager will receive a separate score for the requirements document, which is due by the date indicated in Gradescope.  The team also needs to ensure Heroku is set up properly and that you can deploy at least the basic, default Django app.
 
-- [Example Requirements Document from Spring 2020](https://docs.google.com/document/d/1l39MWsVEX8LWcQ16Wo5-PXyaKhfm_O6j-1Uj6wj8RUU/edit?usp=sharing)
 - ["Excellent" Example from Fall 2020](https://docs.google.com/document/d/1aqeWWhA1QztrM_6iAI1PF3FjP8VTvOqCXhe5w9D9GaU/edit?usp=sharing)
 - ["Great" Example from Fall 2020](https://docs.google.com/document/d/12a8MTkqiUZbnDIs-xRfmCQUb8ozs3jHamdcwp6fuqSc/edit?usp=sharing)
 - ["Good" Example from Fall 2020](https://docs.google.com/document/d/1RxUBAEFjk0HpQ1aFOOX830nenFBX_Idao3vRVBYop1A/edit?usp=sharing)
