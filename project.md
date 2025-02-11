@@ -99,6 +99,7 @@ All CLAs __must__ meet the base requirements listed below.
 1. A patron shall have the ability to see the titles of all private collections, but not any items inside these collections.
 1. A patron shall have the ability to request permission to access a private collection through a button associated with the collection in some reasonable way in the interface.
 1. A patron shall have the ability to request to borrow an item.  The request is then sent to the librarians for approval.
+1. A patron shall NOT have the ability to add items to the library or any collection created by a librarian.
 1. A patron shall be able to see a list of all items they currently have borrowed and any other pertinent information about the lending (e.g, due date, etc.) 
 
 ### Librarians
