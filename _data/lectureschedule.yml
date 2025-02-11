@@ -58,8 +58,8 @@
 - topic: Guided Practice C & Quiz Review
   type: lecture
   date: 02/11
-  due: "GP-C: Planning Game (In-Class^)"
-  due_link_to_release: "#"
+  due: "GP-C: Planning Game (Gradescope)"
+  coursepack: https://youtu.be/gn_Ye5Mxs2o
 
 - topic: "Quiz 1: Software Process and Requirements"
   type: quiz
