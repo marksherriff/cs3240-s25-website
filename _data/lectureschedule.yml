@@ -142,7 +142,7 @@
   due: "GP-F: Acceptance Testing (In-Class^)"
   due_link: # 
 
-- topic: DEI in Software Engineering
+- topic: Building Software for Everyone
   type: lecture
   date: 04/08
   coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
