@@ -202,6 +202,7 @@ You may request a reassessment of any graded work in this course, subject to the
 - Graded work may only be reassessed once -- you may not request reassessment a second time for the same item/problem and any changes to the grade made during reassessment will be final.
 - Reassessment requests that are not written in a professional, respectful way will be immediately discarded and may result in a professionalism penalty for the student.  (In other words, venting frustration at the grader for "not getting it right" is inappropriate and will not be tolerated.)
 - Reassessment periods may be shortened at the end of the semester if needed to complete grading before submitting final grades to the University Registrar.
+- Note that reassessments done in Gradescope have to be manually synced over to Canvas.  We will do this periodically after regrades have closed.  Students do not need to (and should not) reach out to inform the staff that the new Gradescope grade is not in Canvas.  Students will have an opportunity to verify all grades are correct between Gradescope and Canvas at the end of the semester if necessary.
 
 
 ### Final Exam and Project Grading
