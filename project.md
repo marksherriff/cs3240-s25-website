@@ -63,12 +63,13 @@ All CLAs __must__ meet the base requirements listed below.
 ### Collections
 {: .no_toc }
 
-1. Collections are a group of items that a Librarian puts together based on some theme.
+1. Collections are a group of items that a Librarian _or Patron_ puts together based on some theme. _(UPDATED)_
 1. Collections must contain, at a minimum:
 	- Title
 	- Description
 	- [0 to many] Items
-	- Public or Private setting
+	- Public or Private setting _for Librarian created Collections only - Patron Collections are always public_ _(UPDATED)_
+	- _Creator_ _(UPDATED)_
 	- If Private, a list of users that have the ability to see this collection and borrow items (note that librarians can always see all collections)
 1. Items can belong to more than one public collection at a time.
 1. If an item is in a private collection, it is only allowed to be in that one private collection and no other collections, either public or private.
@@ -101,6 +102,7 @@ All CLAs __must__ meet the base requirements listed below.
 1. A patron shall have the ability to request to borrow an item.  The request is then sent to the librarians for approval.
 1. A patron shall NOT have the ability to add items to the library or any collection created by a librarian.
 1. A patron shall be able to see a list of all items they currently have borrowed and any other pertinent information about the lending (e.g, due date, etc.) 
+1. _A patron shall have the ability to create public Collections in the same way that Librarians can.  Patrons cannot create private Collections._ _(UPDATED)_
 
 ### Librarians
 {: .no_toc }
@@ -281,7 +283,7 @@ __Goal:__ The Software Architect takes the lead in guiding the team through the 
 
 __Requirements:__ At the beginning of Sprint 5, the staff will introduce a requirements change to the project.  The Software Architect is responsible for leading the team through this change and documenting the needed architectural changes to handle the update.  
 
-__Requirments Change:__ _Will be revealed just before Sprint 5 begins._
+__Requirments Change:__ Your customer has been so impressed with your implementations of Collections that Librarians create that they want you to add the same functionality for Patrons!  Patrons can now create public Collections (and NOT private).  You will also need to record who created a given Collection so you know who is allowed to add, edit, and delete said Collection.  See the requirements adjustments to the base requirements above.  Pleae post questions on Piazza as needed and we will clarify as appropriate.
 
 __XP Allocation:__
 
