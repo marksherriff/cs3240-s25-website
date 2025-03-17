@@ -63,7 +63,7 @@ All CLAs __must__ meet the base requirements listed below.
 ### Collections
 {: .no_toc }
 
-1. Collections are a group of items that a Library puts together based on some theme.
+1. Collections are a group of items that a Librarian puts together based on some theme.
 1. Collections must contain, at a minimum:
 	- Title
 	- Description
