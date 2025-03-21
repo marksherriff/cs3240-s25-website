@@ -122,13 +122,17 @@
   type: quiz
   date: 03/20
 
-- topic: Use of AI in Software Engineering
+- topic: SE Code of Ethics
   type: lecture
   date: 03/25
+  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/se-code-of-ethics/"
+  due: "GP-F: Ethics (In-Class^)"
+  due_link: #
 
-- topic: Use of AI in Software Engineering
+- topic: Building Software for Everyone
   type: lecture
   date: 03/27
+  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
 
 - topic: Verification and Validation 
   type: lecture
@@ -139,36 +143,32 @@
   type: lecture
   date: 04/03
   coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
-  due: "GP-F: Acceptance Testing (In-Class^)"
+  due: "GP-G: Acceptance Testing (In-Class^)"
   due_link: # 
-
-- topic: Building Software for Everyone
-  type: lecture
-  date: 04/08
-  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
-
-- topic: SE Code of Ethics
-  type: lecture
-  date: 04/10
-  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/se-code-of-ethics/"
-  due: "GP-G: Ethics (In-Class^)"
-  due_link: #
 
 - topic: Engineering Secure Software
   type: lecture
-  date: 04/15
+  date: 04/08
   coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
 
 - topic: Software Licensing
   type: lecture
-  date: 04/17
+  date: 04/10
   coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/licensing/"
 
 - topic: Software Maintenance
   type: lecture
-  date: 04/22
+  date: 04/15
   coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
   due: "GP-H: Security and Licenses (Gradescope)"
+
+- topic: Use of AI in Software Engineering
+  type: lecture
+  date: 04/17
+
+- topic: Use of AI in Software Engineering
+  type: lecture
+  date: 04/22
 
 - topic: "Quiz 3: V&V and Professional Issues"
   type: quiz
