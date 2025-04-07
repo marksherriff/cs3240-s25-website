@@ -149,7 +149,7 @@
 - topic: Engineering Secure Software
   type: lecture
   date: 04/08
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/security/"
 
 - topic: Software Licensing
   type: lecture
