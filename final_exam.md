@@ -2,7 +2,6 @@
 layout: default
 title: Final Exam Info
 nav_order: 9
-nav_exclude: true
 ---
 
 # Final Exam Info
@@ -34,7 +33,7 @@ If you did not get a perfect score on a particular question, then you have the o
 
 Every student will get a custom exam that is made up of new versions of questions that they missed when they took the quizzes the first time.  The questions are not the same, but they assess the same knowledge.
 
-So, if you got a perfect 100 XP on Quiz 1, you won't have any Quiz 1 material on your final.  But if you lost 5XP on the "what are the five phases of development" question, then you'll have a new version of that question on your final exam.  In this instance, the new question might be about comparing and contrasting design versus implementation or perhaps something about which phase takes the longest (answer: maintenance).  Not the same question, but same related material.  Repeat this for the questions from Quiz 2 and Quiz 3 and that makes up your final exam.
+So, if you got a perfect 100 XP on Quiz 1, you won't have any Quiz 1 material on your final.  But if you lost 5 XP on the "what are the five phases of development" question, then you'll have a new version of that question on your final exam.  In this instance, the new question might be about comparing and contrasting design versus implementation or perhaps something about which phase takes the longest (answer: maintenance).  Not the same question, but same related material.  Repeat this for the questions from Quiz 2 and Quiz 3 and that makes up your final exam.
 
 ## Q: How many points can I earn back?
 
@@ -79,7 +78,7 @@ Nope!
 
 ## Q: How do I tell you I want to take the final?
 
-See the signup sheet [right here when it's available](#) and in the announcement that was sent out through Canvas.
+Fill out the [signup sheet](https://docs.google.com/forms/d/e/1FAIpQLSejjF5zkO7XCtxC4BvCr-yNCtlbIE8-GQrBdEoA7xXNoFu7BA/viewform?usp=dialog).  It will also be sent out through Canvas.
 
 ## Q: I signed up for the final exam!  Where do I go?
 
@@ -87,7 +86,7 @@ The exam is in Rice 130, the same room we have class in.
 
 ## Q: What do I need to bring?
 
-A writing implement that is visible upon the page, but crayons are generally a bad idea.  Also, remember how much XP you already have before taking the final (i.e. it's good to know that you have 935 XP).  We won't have that for you when you get here, but we will have the chart showing how much you need in order to get the next grade level.
+A writing implement that is visible upon the page, but crayons are generally a bad idea.  Also, remember how much XP you already have before taking the final (i.e. it's good to know that you have, for example, 935 XP).  We won't have that for you when you get here, but we will have the chart showing how much you need in order to get the next grade level.
 
 ## Q: I signed up for the final, but changed my mind.  Do I need to do anything?
 
