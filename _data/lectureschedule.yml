@@ -132,7 +132,6 @@
 - topic: Building Software for Everyone
   type: lecture
   date: 03/27
-  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
 
 - topic: Verification and Validation 
   type: lecture
